@@ -1,0 +1,8 @@
+# Core Deep Learning Stack (Pinned for stability)
+tensorflow==2.15.0
+tensorflow-recommenders==0.7.3
+
+# Data Processing
+pandas
+numpy<2.0.0
+scikit-learn

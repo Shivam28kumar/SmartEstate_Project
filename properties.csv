@@ -1,0 +1,1001 @@
+property_id,type,location,bedrooms,price,area_sqft,listing_freshness,roi_potential
+1,Townhouse,Downtown Dubai,2,2754614,1671,New,Medium
+2,Penthouse,Downtown Dubai,2,4352666,2213,New,Medium
+3,Apartment,Downtown Dubai,2,1450162,3315,Old,Medium
+4,Townhouse,JVC,4,1774634,1009,New,Medium
+5,Townhouse,Business Bay,1,3255063,2861,Old,Medium
+6,Penthouse,JVC,3,1728807,4520,Old,Medium
+7,Apartment,Business Bay,5,622775,683,Old,High
+8,Apartment,JVC,3,4963158,3328,Old,Medium
+9,Townhouse,JVC,3,914600,4796,Old,High
+10,Villa,Palm Jumeirah,1,2769070,1491,Old,Medium
+11,Townhouse,JVC,1,4913359,1216,Old,Medium
+12,Townhouse,Marina,1,2533901,482,New,Medium
+13,Townhouse,Palm Jumeirah,2,3331569,2320,Old,Medium
+14,Townhouse,JVC,4,1948763,3891,Old,Medium
+15,Penthouse,Downtown Dubai,2,3019507,3544,Old,Medium
+16,Apartment,Marina,4,1756715,2493,New,Medium
+17,Penthouse,Marina,4,580257,575,Old,Medium
+18,Penthouse,Marina,3,2026534,3104,Old,Medium
+19,Penthouse,Palm Jumeirah,3,1324143,769,Old,Medium
+20,Townhouse,JVC,4,3514938,2218,Old,Medium
+21,Villa,JVC,4,4302986,2501,Old,Medium
+22,Apartment,Downtown Dubai,2,871616,3890,Old,Medium
+23,Villa,Downtown Dubai,2,2460155,2179,Old,Medium
+24,Penthouse,Marina,3,4124064,1764,Old,Medium
+25,Penthouse,Downtown Dubai,1,1275158,4862,Old,Medium
+26,Villa,Palm Jumeirah,4,3210527,3742,New,Medium
+27,Villa,JVC,2,2268967,4076,New,Medium
+28,Villa,Marina,3,1416383,2826,Old,Medium
+29,Penthouse,Downtown Dubai,2,779215,472,Old,Medium
+30,Penthouse,Palm Jumeirah,4,3343236,3362,Old,Medium
+31,Apartment,Palm Jumeirah,4,4237859,1259,New,Medium
+32,Apartment,Downtown Dubai,5,773349,4256,Old,Medium
+33,Penthouse,JVC,1,4618893,4538,New,Medium
+34,Villa,Downtown Dubai,5,2460584,2824,New,Medium
+35,Villa,Marina,3,4233003,1464,Old,Medium
+36,Apartment,Downtown Dubai,2,1916207,2617,New,Medium
+37,Penthouse,Palm Jumeirah,3,1078688,4417,Old,Medium
+38,Apartment,Downtown Dubai,4,4726156,2659,Old,Medium
+39,Apartment,JVC,5,2974653,4151,Old,Medium
+40,Townhouse,Business Bay,5,3702209,2486,New,Medium
+41,Townhouse,Downtown Dubai,5,4727995,768,New,Medium
+42,Townhouse,JVC,3,1032726,3204,New,High
+43,Villa,JVC,4,4452255,550,New,Medium
+44,Penthouse,Palm Jumeirah,2,4317242,1534,Old,Medium
+45,Penthouse,JVC,2,739968,3184,Old,High
+46,Penthouse,JVC,3,788963,4564,Old,High
+47,Penthouse,JVC,5,3092536,2746,Old,Medium
+48,Townhouse,JVC,1,3475635,2650,Old,Medium
+49,Villa,Marina,3,3801017,460,Old,Medium
+50,Villa,Marina,3,1019165,3410,Old,Medium
+51,Townhouse,Palm Jumeirah,4,4914084,4301,Old,Medium
+52,Villa,Downtown Dubai,2,3940866,1737,Old,Medium
+53,Townhouse,JVC,3,4378363,1584,Old,Medium
+54,Penthouse,Downtown Dubai,3,3743484,4826,Old,Medium
+55,Townhouse,Downtown Dubai,5,3524243,1951,Old,Medium
+56,Penthouse,Palm Jumeirah,5,1527557,4833,Old,Medium
+57,Penthouse,JVC,1,2496170,2029,Old,Medium
+58,Apartment,JVC,4,4388577,1727,Old,Medium
+59,Townhouse,Business Bay,1,1706123,1926,Old,Medium
+60,Apartment,Downtown Dubai,5,2116596,2073,Old,Medium
+61,Townhouse,Downtown Dubai,2,2285559,1761,Old,Medium
+62,Townhouse,Marina,5,808449,1973,Old,Medium
+63,Apartment,Business Bay,4,4347125,3086,New,Medium
+64,Apartment,Marina,5,1033634,4770,New,Medium
+65,Townhouse,Marina,4,4432747,2766,Old,Medium
+66,Villa,Marina,4,690237,4157,Old,Medium
+67,Penthouse,Palm Jumeirah,4,1356047,2834,Old,Medium
+68,Apartment,Palm Jumeirah,4,4915677,2393,Old,Medium
+69,Penthouse,Marina,4,1906368,1269,Old,Medium
+70,Villa,Business Bay,2,1345474,1414,Old,High
+71,Villa,Downtown Dubai,1,1724744,2311,Old,Medium
+72,Villa,Business Bay,3,3847769,1002,Old,Medium
+73,Apartment,JVC,1,2631018,4221,Old,Medium
+74,Villa,Palm Jumeirah,4,3751128,1090,New,Medium
+75,Apartment,Downtown Dubai,2,3989429,893,New,Medium
+76,Villa,Downtown Dubai,5,3008426,889,Old,Medium
+77,Penthouse,JVC,2,3031086,2956,Old,Medium
+78,Penthouse,JVC,4,794746,4885,Old,High
+79,Townhouse,Marina,2,4852892,694,New,Medium
+80,Penthouse,Palm Jumeirah,2,2202159,4427,Old,Medium
+81,Townhouse,Palm Jumeirah,4,4257985,3243,New,Medium
+82,Penthouse,Business Bay,2,4302177,3312,New,Medium
+83,Apartment,Marina,3,2503426,2117,Old,Medium
+84,Penthouse,Marina,3,3851463,2996,Old,Medium
+85,Townhouse,Marina,2,623950,2273,New,Medium
+86,Townhouse,Marina,5,1653224,3658,New,Medium
+87,Villa,Palm Jumeirah,4,4732851,3217,Old,Medium
+88,Apartment,Palm Jumeirah,3,3150235,844,New,Medium
+89,Penthouse,Marina,5,2240534,4041,Old,Medium
+90,Villa,Business Bay,2,4391839,4858,Old,Medium
+91,Penthouse,Downtown Dubai,5,1804766,1141,New,Medium
+92,Penthouse,Downtown Dubai,1,2803554,2441,New,Medium
+93,Villa,Business Bay,3,3898147,1079,Old,Medium
+94,Villa,Marina,2,4520120,2867,Old,Medium
+95,Villa,Palm Jumeirah,4,3446862,4097,Old,Medium
+96,Villa,Downtown Dubai,2,3176517,1758,Old,Medium
+97,Villa,JVC,4,4807086,462,Old,Medium
+98,Penthouse,JVC,2,1127220,2959,Old,High
+99,Villa,Business Bay,5,943316,4169,Old,High
+100,Apartment,Marina,5,4017741,4751,Old,Medium
+101,Townhouse,Downtown Dubai,5,3956653,534,Old,Medium
+102,Villa,Marina,1,975595,4044,Old,Medium
+103,Villa,Downtown Dubai,4,1965744,2535,Old,Medium
+104,Penthouse,Business Bay,5,2388806,3678,Old,Medium
+105,Villa,Business Bay,1,3744424,1222,New,Medium
+106,Villa,JVC,4,2648091,3474,Old,Medium
+107,Villa,Marina,2,4461676,3381,Old,Medium
+108,Penthouse,JVC,1,2260462,520,New,Medium
+109,Villa,Marina,3,2738673,2037,New,Medium
+110,Townhouse,JVC,1,2123154,1324,Old,Medium
+111,Penthouse,Palm Jumeirah,1,4558848,1044,Old,Medium
+112,Townhouse,Palm Jumeirah,4,3980826,2432,Old,Medium
+113,Penthouse,Palm Jumeirah,2,1309178,3161,Old,Medium
+114,Villa,Palm Jumeirah,3,3062605,2468,Old,Medium
+115,Townhouse,Downtown Dubai,5,1221037,641,New,Medium
+116,Penthouse,Palm Jumeirah,5,3732244,3068,Old,Medium
+117,Apartment,Business Bay,1,3299250,1202,Old,Medium
+118,Villa,Business Bay,4,1521469,4564,Old,Medium
+119,Penthouse,Downtown Dubai,4,2881306,595,Old,Medium
+120,Apartment,Palm Jumeirah,5,3392371,2587,Old,Medium
+121,Penthouse,Palm Jumeirah,3,2312336,3915,New,Medium
+122,Apartment,Palm Jumeirah,2,4833848,2730,Old,Medium
+123,Villa,JVC,3,963001,2759,New,High
+124,Townhouse,Marina,2,3680246,4006,Old,Medium
+125,Apartment,JVC,5,2651061,676,New,Medium
+126,Penthouse,Marina,2,4450511,460,New,Medium
+127,Villa,Palm Jumeirah,4,3322136,3790,Old,Medium
+128,Apartment,Palm Jumeirah,1,1015693,2313,Old,Medium
+129,Penthouse,JVC,1,3136722,4327,Old,Medium
+130,Penthouse,JVC,5,739017,2991,New,High
+131,Penthouse,Marina,4,914994,966,New,Medium
+132,Apartment,Business Bay,3,1441768,4335,Old,High
+133,Apartment,Marina,4,2340083,1971,New,Medium
+134,Apartment,JVC,1,1576941,1600,New,Medium
+135,Townhouse,JVC,1,965982,4809,Old,High
+136,Apartment,Downtown Dubai,4,3038568,3254,Old,Medium
+137,Apartment,JVC,4,773146,3295,Old,High
+138,Apartment,Downtown Dubai,1,1664795,1636,Old,Medium
+139,Townhouse,Business Bay,3,1889330,536,Old,Medium
+140,Apartment,Marina,5,3177747,1429,Old,Medium
+141,Penthouse,Marina,5,2909381,2556,Old,Medium
+142,Apartment,Downtown Dubai,4,4070599,2994,Old,Medium
+143,Penthouse,Marina,5,3443295,1061,New,Medium
+144,Penthouse,JVC,1,3783616,2872,Old,Medium
+145,Penthouse,Palm Jumeirah,1,577175,3077,New,Medium
+146,Townhouse,Downtown Dubai,4,3185747,2708,Old,Medium
+147,Townhouse,Marina,4,2578808,486,New,Medium
+148,Townhouse,Downtown Dubai,4,1857453,2912,Old,Medium
+149,Apartment,Downtown Dubai,3,3511786,3342,Old,Medium
+150,Penthouse,Palm Jumeirah,5,595028,3173,New,Medium
+151,Townhouse,JVC,4,2058242,2904,New,Medium
+152,Townhouse,Downtown Dubai,2,4819453,3710,Old,Medium
+153,Apartment,Marina,2,663834,2100,Old,Medium
+154,Townhouse,Business Bay,1,2867555,4070,Old,Medium
+155,Apartment,Downtown Dubai,5,1729787,3100,Old,Medium
+156,Villa,Downtown Dubai,4,3512359,4029,Old,Medium
+157,Townhouse,Palm Jumeirah,2,1825569,4990,Old,Medium
+158,Villa,JVC,5,1916828,2047,Old,Medium
+159,Apartment,Business Bay,1,2914165,3718,Old,Medium
+160,Penthouse,Marina,3,3708823,4087,Old,Medium
+161,Townhouse,Business Bay,5,4125654,996,Old,Medium
+162,Apartment,Marina,5,785711,4945,Old,Medium
+163,Penthouse,JVC,3,1623389,884,Old,Medium
+164,Penthouse,Marina,5,1075919,1045,Old,Medium
+165,Villa,Palm Jumeirah,1,3831106,3489,New,Medium
+166,Apartment,Palm Jumeirah,1,1352746,4784,New,Medium
+167,Penthouse,Palm Jumeirah,3,922381,1120,Old,Medium
+168,Townhouse,Palm Jumeirah,4,1476433,898,Old,Medium
+169,Townhouse,Business Bay,2,3171252,2073,Old,Medium
+170,Villa,JVC,4,2020943,3467,New,Medium
+171,Penthouse,Marina,5,901067,514,Old,Medium
+172,Apartment,Marina,2,960796,3379,Old,Medium
+173,Townhouse,Palm Jumeirah,3,1504001,2136,New,Medium
+174,Penthouse,Palm Jumeirah,3,812023,4011,Old,Medium
+175,Penthouse,Downtown Dubai,2,3705599,2653,Old,Medium
+176,Villa,JVC,1,3677902,2694,Old,Medium
+177,Townhouse,Business Bay,2,1255111,4030,Old,High
+178,Townhouse,Marina,5,2820715,546,Old,Medium
+179,Apartment,Downtown Dubai,1,2734805,4382,Old,Medium
+180,Townhouse,Downtown Dubai,3,4804459,3853,Old,Medium
+181,Apartment,Marina,2,2399054,4907,Old,Medium
+182,Townhouse,Business Bay,4,3957550,2810,Old,Medium
+183,Villa,Downtown Dubai,4,2050184,536,Old,Medium
+184,Townhouse,Downtown Dubai,5,4674482,3760,Old,Medium
+185,Apartment,JVC,4,3773523,3405,Old,Medium
+186,Apartment,Business Bay,2,588668,3952,New,High
+187,Villa,Downtown Dubai,2,3334837,418,Old,Medium
+188,Townhouse,Business Bay,4,4119348,2642,Old,Medium
+189,Townhouse,Marina,2,2424914,848,New,Medium
+190,Villa,Palm Jumeirah,5,4510162,2348,Old,Medium
+191,Townhouse,Downtown Dubai,1,3270742,1345,New,Medium
+192,Townhouse,JVC,5,3270374,4636,Old,Medium
+193,Apartment,Marina,5,4082299,2320,Old,Medium
+194,Townhouse,Business Bay,2,3545915,3377,Old,Medium
+195,Townhouse,Marina,1,770914,4588,New,Medium
+196,Villa,Downtown Dubai,2,4609803,4415,New,Medium
+197,Villa,Business Bay,3,862455,638,Old,High
+198,Penthouse,Palm Jumeirah,2,4974017,604,Old,Medium
+199,Apartment,Marina,2,1534586,3007,Old,Medium
+200,Townhouse,Downtown Dubai,2,2246688,4740,Old,Medium
+201,Townhouse,JVC,1,3600581,3788,Old,Medium
+202,Penthouse,Business Bay,2,3161637,3372,Old,Medium
+203,Townhouse,Marina,1,4172277,4790,Old,Medium
+204,Apartment,Marina,4,2584504,3087,Old,Medium
+205,Penthouse,Palm Jumeirah,3,4657137,4566,Old,Medium
+206,Apartment,Palm Jumeirah,1,2754736,1748,Old,Medium
+207,Penthouse,JVC,4,3521372,4800,New,Medium
+208,Penthouse,JVC,1,2888229,1216,Old,Medium
+209,Villa,Downtown Dubai,1,3621881,1220,Old,Medium
+210,Apartment,Downtown Dubai,3,2971378,592,New,Medium
+211,Townhouse,JVC,5,4330121,2176,New,Medium
+212,Townhouse,JVC,5,4062944,4045,Old,Medium
+213,Apartment,Business Bay,1,1853324,650,Old,Medium
+214,Townhouse,Palm Jumeirah,2,3872455,2188,Old,Medium
+215,Townhouse,Downtown Dubai,4,4768173,4100,Old,Medium
+216,Apartment,Palm Jumeirah,2,1369807,2863,Old,Medium
+217,Penthouse,Palm Jumeirah,2,4896720,1567,Old,Medium
+218,Apartment,JVC,1,4570028,4293,Old,Medium
+219,Penthouse,Business Bay,1,3164496,1496,Old,Medium
+220,Townhouse,Marina,1,3372176,3079,Old,Medium
+221,Townhouse,Business Bay,1,1869277,2247,Old,Medium
+222,Townhouse,Business Bay,5,1249971,4304,Old,High
+223,Villa,Palm Jumeirah,1,3093659,904,Old,Medium
+224,Penthouse,Business Bay,5,4666233,2021,New,Medium
+225,Villa,Downtown Dubai,5,4960276,2872,New,Medium
+226,Villa,Palm Jumeirah,1,4575837,2946,Old,Medium
+227,Apartment,Downtown Dubai,3,1842057,1787,Old,Medium
+228,Villa,Marina,4,2733706,3394,Old,Medium
+229,Apartment,Palm Jumeirah,2,985757,4216,New,Medium
+230,Apartment,Marina,5,2554376,1117,New,Medium
+231,Villa,Palm Jumeirah,4,2779176,3884,Old,Medium
+232,Penthouse,JVC,3,1685111,4834,Old,Medium
+233,Penthouse,Business Bay,2,2892919,1058,Old,Medium
+234,Penthouse,JVC,2,2000948,4408,Old,Medium
+235,Penthouse,Marina,5,4607834,4924,Old,Medium
+236,Penthouse,Business Bay,1,2908630,4634,Old,Medium
+237,Villa,Palm Jumeirah,3,2094918,4164,Old,Medium
+238,Villa,Business Bay,5,3202994,3389,Old,Medium
+239,Townhouse,Downtown Dubai,3,3204716,2504,Old,Medium
+240,Penthouse,Business Bay,1,692512,1655,Old,High
+241,Villa,Downtown Dubai,1,4214379,2882,Old,Medium
+242,Townhouse,Business Bay,5,4885724,783,Old,Medium
+243,Penthouse,Downtown Dubai,1,2049420,3007,New,Medium
+244,Apartment,Marina,4,2575915,593,Old,Medium
+245,Townhouse,JVC,2,3848924,4207,Old,Medium
+246,Villa,Palm Jumeirah,5,3845647,4119,Old,Medium
+247,Apartment,Business Bay,3,4400379,2981,Old,Medium
+248,Apartment,JVC,4,4304409,2965,Old,Medium
+249,Apartment,Palm Jumeirah,5,3464932,3163,New,Medium
+250,Townhouse,Palm Jumeirah,1,1147341,3198,Old,Medium
+251,Villa,Downtown Dubai,1,2020982,2739,Old,Medium
+252,Apartment,Marina,1,3829693,3806,Old,Medium
+253,Penthouse,Marina,1,4498422,1131,Old,Medium
+254,Apartment,JVC,3,1701838,3272,Old,Medium
+255,Apartment,Marina,4,2664563,3520,Old,Medium
+256,Townhouse,Business Bay,2,4979825,4577,Old,Medium
+257,Townhouse,Marina,3,4085681,3004,Old,Medium
+258,Villa,JVC,3,4908285,2782,Old,Medium
+259,Penthouse,Marina,2,2884291,931,Old,Medium
+260,Townhouse,Business Bay,2,2595588,4716,Old,Medium
+261,Apartment,Downtown Dubai,1,3155982,1034,Old,Medium
+262,Villa,JVC,3,4704955,2169,Old,Medium
+263,Apartment,Downtown Dubai,5,3744967,4204,Old,Medium
+264,Apartment,Downtown Dubai,2,3485696,2770,Old,Medium
+265,Townhouse,Downtown Dubai,2,937625,402,Old,Medium
+266,Villa,Palm Jumeirah,4,3801106,605,Old,Medium
+267,Penthouse,Palm Jumeirah,5,1872070,4535,Old,Medium
+268,Penthouse,Downtown Dubai,5,2930721,3021,New,Medium
+269,Townhouse,JVC,2,3093726,3290,New,Medium
+270,Townhouse,Business Bay,1,4518280,3593,Old,Medium
+271,Villa,Business Bay,4,3042017,3066,Old,Medium
+272,Penthouse,Marina,5,4950252,3706,Old,Medium
+273,Penthouse,JVC,2,2070057,1297,Old,Medium
+274,Penthouse,Palm Jumeirah,5,1361069,1485,Old,Medium
+275,Apartment,Downtown Dubai,4,1356626,1679,Old,Medium
+276,Penthouse,Marina,4,2661352,1070,Old,Medium
+277,Apartment,Business Bay,3,606022,1905,New,High
+278,Villa,Palm Jumeirah,2,3299131,3975,Old,Medium
+279,Apartment,Palm Jumeirah,4,3707796,2355,Old,Medium
+280,Villa,Downtown Dubai,3,970529,649,New,Medium
+281,Penthouse,Business Bay,3,3483516,2292,Old,Medium
+282,Penthouse,JVC,5,661445,3839,New,High
+283,Villa,Palm Jumeirah,5,4334242,2253,Old,Medium
+284,Townhouse,Downtown Dubai,3,3782831,3254,Old,Medium
+285,Villa,JVC,5,4918909,1903,Old,Medium
+286,Townhouse,Business Bay,4,1184029,3785,Old,High
+287,Apartment,Palm Jumeirah,1,1010370,3971,Old,Medium
+288,Apartment,JVC,4,2252374,4192,Old,Medium
+289,Apartment,JVC,3,4915276,3826,Old,Medium
+290,Penthouse,JVC,3,4499694,443,Old,Medium
+291,Apartment,Palm Jumeirah,4,3808505,4012,Old,Medium
+292,Townhouse,Palm Jumeirah,5,708944,3018,Old,Medium
+293,Apartment,Marina,5,3325494,3563,Old,Medium
+294,Villa,Business Bay,3,1861303,1688,Old,Medium
+295,Villa,Downtown Dubai,2,4701765,3342,Old,Medium
+296,Penthouse,JVC,5,3394100,619,Old,Medium
+297,Villa,Marina,4,1697162,2325,Old,Medium
+298,Townhouse,Downtown Dubai,5,1546161,3372,Old,Medium
+299,Apartment,Marina,4,2279685,3913,Old,Medium
+300,Penthouse,Palm Jumeirah,3,2397501,2848,Old,Medium
+301,Apartment,JVC,5,1173218,3871,Old,High
+302,Apartment,Downtown Dubai,4,4385250,3174,Old,Medium
+303,Townhouse,Downtown Dubai,3,1103291,1390,Old,Medium
+304,Villa,Downtown Dubai,2,3161198,3346,Old,Medium
+305,Villa,Downtown Dubai,4,2679431,2212,Old,Medium
+306,Apartment,Downtown Dubai,2,4709738,1203,Old,Medium
+307,Penthouse,Marina,2,1219407,889,Old,Medium
+308,Villa,JVC,1,3038143,3956,New,Medium
+309,Penthouse,Palm Jumeirah,5,837913,1893,New,Medium
+310,Villa,Palm Jumeirah,4,4415770,4045,New,Medium
+311,Penthouse,Palm Jumeirah,2,828821,3291,Old,Medium
+312,Townhouse,Palm Jumeirah,1,2680707,2105,New,Medium
+313,Penthouse,Marina,3,2201243,3916,New,Medium
+314,Townhouse,Business Bay,4,4387008,3740,Old,Medium
+315,Townhouse,JVC,2,2312375,453,Old,Medium
+316,Penthouse,Downtown Dubai,5,4127447,2975,Old,Medium
+317,Townhouse,Business Bay,1,4115652,3991,Old,Medium
+318,Apartment,Palm Jumeirah,2,568803,1015,New,Medium
+319,Townhouse,Business Bay,5,1307744,1354,Old,High
+320,Villa,JVC,2,1248736,2833,Old,High
+321,Penthouse,Downtown Dubai,4,1199539,2029,Old,Medium
+322,Apartment,Downtown Dubai,4,745404,3181,Old,Medium
+323,Penthouse,JVC,4,517297,1049,Old,High
+324,Villa,JVC,1,1288443,2747,Old,High
+325,Villa,Palm Jumeirah,4,4155074,4890,Old,Medium
+326,Villa,Downtown Dubai,5,3765962,3678,New,Medium
+327,Townhouse,Business Bay,2,3526394,3040,New,Medium
+328,Townhouse,Marina,3,1727146,4201,New,Medium
+329,Penthouse,Marina,5,3380304,2961,Old,Medium
+330,Penthouse,JVC,5,1833572,3649,Old,Medium
+331,Apartment,Palm Jumeirah,4,1115863,770,New,Medium
+332,Apartment,Marina,1,4265056,1257,Old,Medium
+333,Penthouse,Downtown Dubai,2,3825315,783,Old,Medium
+334,Townhouse,JVC,1,1328791,4277,New,High
+335,Villa,Business Bay,2,4320887,2952,Old,Medium
+336,Penthouse,JVC,2,3346274,4734,New,Medium
+337,Apartment,Business Bay,1,4895564,4690,Old,Medium
+338,Townhouse,JVC,5,876794,3125,Old,High
+339,Penthouse,JVC,2,4378450,4434,Old,Medium
+340,Penthouse,JVC,1,3533349,3693,New,Medium
+341,Townhouse,Business Bay,2,2021466,4651,Old,Medium
+342,Penthouse,Business Bay,3,2980252,4388,New,Medium
+343,Townhouse,JVC,5,1282877,1322,New,High
+344,Villa,Marina,4,4385180,3315,Old,Medium
+345,Townhouse,Palm Jumeirah,2,4110793,3350,Old,Medium
+346,Townhouse,Palm Jumeirah,3,3799973,3446,Old,Medium
+347,Townhouse,Palm Jumeirah,4,3580977,1374,Old,Medium
+348,Penthouse,Business Bay,4,2799899,1630,Old,Medium
+349,Penthouse,Business Bay,2,2472424,2835,New,Medium
+350,Townhouse,Marina,1,1836092,2214,New,Medium
+351,Penthouse,Palm Jumeirah,2,1350350,3334,Old,Medium
+352,Apartment,Palm Jumeirah,3,3979027,1763,Old,Medium
+353,Apartment,JVC,4,3705228,4340,Old,Medium
+354,Penthouse,Business Bay,2,667647,603,Old,High
+355,Penthouse,Palm Jumeirah,1,2833679,560,Old,Medium
+356,Townhouse,Marina,2,935477,4887,Old,Medium
+357,Villa,Marina,5,2183523,1168,Old,Medium
+358,Penthouse,Palm Jumeirah,1,4696656,4148,Old,Medium
+359,Apartment,Business Bay,3,4827308,2981,Old,Medium
+360,Townhouse,Marina,4,3460033,1493,Old,Medium
+361,Penthouse,JVC,2,2081420,4900,Old,Medium
+362,Apartment,Marina,1,1286261,1007,Old,Medium
+363,Apartment,Downtown Dubai,5,3994708,1940,Old,Medium
+364,Villa,Downtown Dubai,1,3328630,3275,Old,Medium
+365,Townhouse,Business Bay,5,4744402,3591,Old,Medium
+366,Townhouse,Palm Jumeirah,3,3579042,2237,New,Medium
+367,Villa,Business Bay,4,3262081,1089,Old,Medium
+368,Villa,Business Bay,3,626060,4159,Old,High
+369,Townhouse,Business Bay,2,4824848,3349,Old,Medium
+370,Townhouse,Business Bay,1,3296461,2503,Old,Medium
+371,Penthouse,JVC,5,3577099,765,Old,Medium
+372,Penthouse,JVC,5,3344180,3975,Old,Medium
+373,Villa,Marina,1,3121578,4950,Old,Medium
+374,Penthouse,Downtown Dubai,1,2172795,4599,Old,Medium
+375,Apartment,Business Bay,2,4593886,4572,Old,Medium
+376,Penthouse,Marina,3,2754103,4725,Old,Medium
+377,Penthouse,Downtown Dubai,5,3439362,2778,New,Medium
+378,Apartment,Palm Jumeirah,2,1062060,1605,Old,Medium
+379,Villa,JVC,3,2006145,4239,New,Medium
+380,Apartment,Downtown Dubai,2,3148202,3135,Old,Medium
+381,Penthouse,Palm Jumeirah,5,1692931,3747,Old,Medium
+382,Villa,Downtown Dubai,1,1371522,2075,Old,Medium
+383,Penthouse,JVC,1,2042247,698,Old,Medium
+384,Apartment,JVC,3,4872216,1356,New,Medium
+385,Apartment,Marina,4,2681906,1514,Old,Medium
+386,Penthouse,Business Bay,3,1102276,2905,Old,High
+387,Townhouse,Downtown Dubai,4,2000134,1874,Old,Medium
+388,Townhouse,Downtown Dubai,2,3104884,4860,Old,Medium
+389,Apartment,Palm Jumeirah,2,2205243,4846,New,Medium
+390,Apartment,JVC,5,4774692,4126,New,Medium
+391,Townhouse,Downtown Dubai,4,4522928,3871,New,Medium
+392,Townhouse,JVC,5,739779,3228,New,High
+393,Penthouse,Downtown Dubai,1,3475605,3250,Old,Medium
+394,Penthouse,Marina,4,1288140,2906,Old,Medium
+395,Townhouse,Business Bay,3,4058539,4170,Old,Medium
+396,Penthouse,Downtown Dubai,1,4246037,3364,Old,Medium
+397,Penthouse,JVC,1,2623238,4994,New,Medium
+398,Villa,Marina,3,2118963,1349,Old,Medium
+399,Penthouse,Downtown Dubai,1,1090381,3250,New,Medium
+400,Apartment,Palm Jumeirah,4,3432235,565,Old,Medium
+401,Penthouse,Business Bay,5,4183909,3886,Old,Medium
+402,Penthouse,Downtown Dubai,1,2039600,2909,New,Medium
+403,Townhouse,Marina,4,2727503,1319,Old,Medium
+404,Apartment,Palm Jumeirah,2,4732939,513,Old,Medium
+405,Penthouse,Marina,4,3570771,3904,Old,Medium
+406,Penthouse,Marina,5,1643647,1391,Old,Medium
+407,Villa,Palm Jumeirah,4,4111646,4239,New,Medium
+408,Penthouse,Marina,3,1916953,1658,Old,Medium
+409,Penthouse,Palm Jumeirah,5,3194245,3826,Old,Medium
+410,Villa,Downtown Dubai,2,4622186,914,New,Medium
+411,Townhouse,Palm Jumeirah,3,921280,3596,Old,Medium
+412,Penthouse,Palm Jumeirah,4,1409245,4834,New,Medium
+413,Villa,Business Bay,5,841207,2984,Old,High
+414,Apartment,Palm Jumeirah,2,1730746,467,New,Medium
+415,Townhouse,Palm Jumeirah,3,3789791,1996,Old,Medium
+416,Apartment,Downtown Dubai,2,1092632,4878,Old,Medium
+417,Apartment,Business Bay,4,4537106,418,Old,Medium
+418,Villa,JVC,2,1972178,3130,Old,Medium
+419,Penthouse,Downtown Dubai,1,1662189,3921,Old,Medium
+420,Villa,Downtown Dubai,3,4370426,972,Old,Medium
+421,Villa,JVC,2,914299,2658,Old,High
+422,Villa,Palm Jumeirah,4,2881486,3302,Old,Medium
+423,Villa,Marina,4,4176158,1050,New,Medium
+424,Townhouse,Business Bay,2,4661900,2987,New,Medium
+425,Penthouse,Marina,4,625438,3662,Old,Medium
+426,Apartment,JVC,5,4270183,1738,Old,Medium
+427,Apartment,Downtown Dubai,5,2417043,4034,Old,Medium
+428,Penthouse,Downtown Dubai,5,2699391,3227,Old,Medium
+429,Apartment,Business Bay,1,1135719,2617,Old,High
+430,Penthouse,Downtown Dubai,2,3301445,3939,Old,Medium
+431,Apartment,Downtown Dubai,1,1308258,1437,Old,Medium
+432,Villa,Business Bay,4,3364140,4783,Old,Medium
+433,Apartment,Business Bay,1,4064462,4378,New,Medium
+434,Penthouse,JVC,4,681948,3361,Old,High
+435,Penthouse,Downtown Dubai,4,3082814,3626,New,Medium
+436,Penthouse,Downtown Dubai,3,4269457,1498,New,Medium
+437,Penthouse,JVC,5,1706751,2724,Old,Medium
+438,Penthouse,Palm Jumeirah,4,1453692,1339,Old,Medium
+439,Townhouse,Palm Jumeirah,3,717770,4116,Old,Medium
+440,Townhouse,Palm Jumeirah,5,4599906,3814,Old,Medium
+441,Apartment,JVC,4,2937245,1848,Old,Medium
+442,Penthouse,Downtown Dubai,4,3202882,970,New,Medium
+443,Apartment,JVC,1,2290008,3304,Old,Medium
+444,Penthouse,JVC,1,2326525,2905,Old,Medium
+445,Penthouse,Palm Jumeirah,5,1838530,1317,Old,Medium
+446,Townhouse,Marina,4,4966951,2274,Old,Medium
+447,Townhouse,Downtown Dubai,2,2681913,2078,Old,Medium
+448,Villa,Palm Jumeirah,1,1978768,1015,Old,Medium
+449,Townhouse,Marina,5,2065213,4901,Old,Medium
+450,Villa,Marina,4,3263398,2149,Old,Medium
+451,Villa,Business Bay,4,1188152,4225,Old,High
+452,Villa,Downtown Dubai,2,902980,4588,Old,Medium
+453,Villa,Marina,5,1538336,2877,Old,Medium
+454,Villa,Palm Jumeirah,4,3378350,3905,Old,Medium
+455,Apartment,Business Bay,1,1668932,3875,Old,Medium
+456,Townhouse,Downtown Dubai,2,1949087,4929,Old,Medium
+457,Villa,JVC,5,3031528,1535,Old,Medium
+458,Penthouse,Palm Jumeirah,2,2608542,4400,New,Medium
+459,Townhouse,Marina,1,1437635,774,New,Medium
+460,Townhouse,Marina,5,4002626,606,Old,Medium
+461,Villa,Palm Jumeirah,2,1886689,1719,Old,Medium
+462,Apartment,Marina,3,4316126,1541,New,Medium
+463,Villa,Business Bay,1,3566983,3090,Old,Medium
+464,Apartment,Downtown Dubai,1,3346230,3655,New,Medium
+465,Penthouse,Business Bay,1,2618433,489,Old,Medium
+466,Townhouse,Marina,3,4956397,4508,Old,Medium
+467,Penthouse,JVC,3,4178621,3420,New,Medium
+468,Apartment,Downtown Dubai,4,1797991,2257,New,Medium
+469,Apartment,Downtown Dubai,2,4231404,1204,Old,Medium
+470,Penthouse,Palm Jumeirah,4,2314188,1344,Old,Medium
+471,Apartment,Palm Jumeirah,2,2607359,3189,Old,Medium
+472,Penthouse,JVC,3,718401,4275,Old,High
+473,Townhouse,Downtown Dubai,3,1485132,2010,Old,Medium
+474,Penthouse,JVC,4,659292,3323,New,High
+475,Townhouse,Palm Jumeirah,5,3667759,4282,Old,Medium
+476,Penthouse,Palm Jumeirah,4,963937,3621,New,Medium
+477,Apartment,Downtown Dubai,2,3464391,4791,Old,Medium
+478,Penthouse,Business Bay,4,3181206,2787,Old,Medium
+479,Apartment,Marina,1,1692097,1341,Old,Medium
+480,Penthouse,Palm Jumeirah,2,687771,2966,New,Medium
+481,Penthouse,Palm Jumeirah,2,737199,1375,Old,Medium
+482,Villa,Business Bay,5,3357281,1354,New,Medium
+483,Apartment,Business Bay,3,3232481,1662,New,Medium
+484,Villa,JVC,2,2774316,1343,Old,Medium
+485,Apartment,JVC,3,4102615,2602,Old,Medium
+486,Villa,Marina,4,2083214,3727,Old,Medium
+487,Townhouse,Marina,1,1251518,4674,New,Medium
+488,Penthouse,Downtown Dubai,5,1013313,2659,Old,Medium
+489,Apartment,JVC,3,4431586,2228,Old,Medium
+490,Apartment,Palm Jumeirah,2,3714215,1657,Old,Medium
+491,Penthouse,JVC,3,3960989,864,Old,Medium
+492,Apartment,Palm Jumeirah,2,2832214,3694,Old,Medium
+493,Apartment,Business Bay,3,2830229,1630,Old,Medium
+494,Villa,JVC,2,2363462,3054,Old,Medium
+495,Apartment,Business Bay,4,1154224,1284,Old,High
+496,Townhouse,Marina,2,2750397,4205,Old,Medium
+497,Townhouse,Marina,2,2499284,4256,Old,Medium
+498,Penthouse,Downtown Dubai,1,2501676,3535,Old,Medium
+499,Apartment,JVC,2,2184532,1324,Old,Medium
+500,Penthouse,Business Bay,1,954418,4989,Old,High
+501,Townhouse,Palm Jumeirah,5,1972542,1946,Old,Medium
+502,Apartment,Marina,1,4973014,1494,New,Medium
+503,Apartment,Marina,4,1062621,2811,New,Medium
+504,Penthouse,Palm Jumeirah,1,4029801,3017,Old,Medium
+505,Townhouse,Business Bay,5,2098099,1162,Old,Medium
+506,Apartment,Business Bay,4,4694463,2723,Old,Medium
+507,Penthouse,JVC,3,4313233,4545,Old,Medium
+508,Townhouse,JVC,3,1711569,3175,Old,Medium
+509,Penthouse,Downtown Dubai,1,1695885,3555,New,Medium
+510,Villa,Marina,1,1656083,4370,New,Medium
+511,Apartment,JVC,5,2474324,2440,Old,Medium
+512,Villa,Business Bay,5,4398190,983,Old,Medium
+513,Townhouse,Palm Jumeirah,2,3888445,4731,Old,Medium
+514,Villa,Business Bay,5,3242974,2503,Old,Medium
+515,Villa,Marina,2,3992099,2342,Old,Medium
+516,Townhouse,Business Bay,4,1779180,4855,Old,Medium
+517,Penthouse,Downtown Dubai,1,3833178,509,Old,Medium
+518,Villa,Marina,4,3084182,591,New,Medium
+519,Penthouse,Palm Jumeirah,5,2308286,1303,Old,Medium
+520,Villa,Downtown Dubai,4,4863089,1261,Old,Medium
+521,Penthouse,Marina,4,3297921,1483,Old,Medium
+522,Townhouse,Palm Jumeirah,4,4874142,1049,New,Medium
+523,Villa,Downtown Dubai,5,769160,4534,Old,Medium
+524,Townhouse,Downtown Dubai,4,3069931,4011,Old,Medium
+525,Villa,Marina,2,941904,1036,Old,Medium
+526,Townhouse,JVC,5,1078526,1436,New,High
+527,Townhouse,Downtown Dubai,4,1337393,4531,Old,Medium
+528,Villa,Downtown Dubai,5,3845503,2548,Old,Medium
+529,Villa,Palm Jumeirah,3,1314422,4265,Old,Medium
+530,Villa,Business Bay,2,1234983,3557,Old,High
+531,Apartment,Marina,4,2763429,3987,Old,Medium
+532,Penthouse,Marina,3,3635812,3694,Old,Medium
+533,Apartment,JVC,3,4775115,4661,Old,Medium
+534,Apartment,JVC,5,3376280,2830,Old,Medium
+535,Townhouse,Marina,3,3438687,2279,Old,Medium
+536,Villa,JVC,2,1916842,4366,Old,Medium
+537,Penthouse,Palm Jumeirah,2,2831256,4113,New,Medium
+538,Townhouse,Marina,1,4189024,4526,Old,Medium
+539,Apartment,JVC,2,4896650,4506,Old,Medium
+540,Villa,Marina,3,4202418,2411,New,Medium
+541,Townhouse,Business Bay,2,2781608,3773,Old,Medium
+542,Villa,Downtown Dubai,5,4430010,2543,Old,Medium
+543,Townhouse,Marina,1,4141771,2900,Old,Medium
+544,Villa,Downtown Dubai,3,4579441,4981,New,Medium
+545,Apartment,JVC,1,1460652,1689,Old,High
+546,Penthouse,Downtown Dubai,3,2688370,1847,Old,Medium
+547,Apartment,Marina,5,2048485,3599,Old,Medium
+548,Penthouse,Business Bay,1,2067343,2343,Old,Medium
+549,Villa,JVC,4,3825495,3583,New,Medium
+550,Townhouse,Marina,3,3885744,3616,Old,Medium
+551,Apartment,JVC,4,1255612,3536,New,High
+552,Penthouse,Palm Jumeirah,1,4494528,3718,Old,Medium
+553,Apartment,Downtown Dubai,4,2576475,3182,Old,Medium
+554,Penthouse,Palm Jumeirah,4,2641912,1390,Old,Medium
+555,Apartment,Marina,1,3644311,2553,New,Medium
+556,Penthouse,Business Bay,5,785622,625,Old,High
+557,Penthouse,JVC,4,2462889,1176,New,Medium
+558,Villa,Downtown Dubai,4,2406862,3237,Old,Medium
+559,Penthouse,JVC,5,4526390,1087,Old,Medium
+560,Villa,Marina,4,1896436,929,Old,Medium
+561,Penthouse,JVC,4,1167540,3842,Old,High
+562,Townhouse,Downtown Dubai,4,2695690,2553,New,Medium
+563,Townhouse,Marina,2,2088236,1694,Old,Medium
+564,Townhouse,JVC,5,3482410,1926,New,Medium
+565,Penthouse,Business Bay,4,1904355,3296,New,Medium
+566,Villa,Marina,5,3175480,3503,Old,Medium
+567,Villa,Marina,3,3924083,2840,New,Medium
+568,Penthouse,Business Bay,3,2964722,4535,New,Medium
+569,Townhouse,Palm Jumeirah,4,3401092,4202,Old,Medium
+570,Townhouse,Downtown Dubai,5,2750229,1244,Old,Medium
+571,Villa,Palm Jumeirah,5,2022534,846,New,Medium
+572,Townhouse,JVC,5,2222907,4315,Old,Medium
+573,Apartment,Business Bay,2,3015967,3509,Old,Medium
+574,Villa,Palm Jumeirah,3,3370574,1634,Old,Medium
+575,Townhouse,Marina,5,3388939,626,Old,Medium
+576,Villa,JVC,5,4486280,4543,New,Medium
+577,Apartment,JVC,2,2544940,3359,Old,Medium
+578,Villa,Palm Jumeirah,2,2599409,2230,Old,Medium
+579,Villa,Palm Jumeirah,5,3672382,4179,Old,Medium
+580,Villa,Business Bay,1,4381857,586,Old,Medium
+581,Villa,Downtown Dubai,5,791464,3277,Old,Medium
+582,Apartment,Palm Jumeirah,5,3173829,2935,Old,Medium
+583,Penthouse,Palm Jumeirah,2,618581,2332,Old,Medium
+584,Villa,Marina,2,4352256,3324,Old,Medium
+585,Villa,JVC,5,838540,1248,New,High
+586,Townhouse,Downtown Dubai,5,1001590,2432,New,Medium
+587,Villa,Marina,5,1918412,1652,Old,Medium
+588,Townhouse,Business Bay,2,3860492,2281,Old,Medium
+589,Penthouse,Business Bay,5,2130369,669,Old,Medium
+590,Apartment,Palm Jumeirah,5,1372328,2030,Old,Medium
+591,Apartment,Palm Jumeirah,4,3610691,4805,Old,Medium
+592,Penthouse,Business Bay,1,1858097,3603,New,Medium
+593,Apartment,Palm Jumeirah,3,3800354,1974,Old,Medium
+594,Penthouse,Downtown Dubai,1,1794315,3292,New,Medium
+595,Penthouse,Palm Jumeirah,4,3075508,2095,Old,Medium
+596,Penthouse,JVC,3,2876219,3658,Old,Medium
+597,Apartment,Palm Jumeirah,5,1858311,3662,Old,Medium
+598,Townhouse,Marina,4,1789467,1845,Old,Medium
+599,Penthouse,Downtown Dubai,5,664074,619,New,Medium
+600,Villa,Marina,2,3070466,452,Old,Medium
+601,Apartment,Marina,4,4155180,2157,Old,Medium
+602,Penthouse,JVC,2,4983120,2066,Old,Medium
+603,Penthouse,Downtown Dubai,4,1290645,3185,Old,Medium
+604,Villa,Downtown Dubai,4,3787093,1119,Old,Medium
+605,Townhouse,Downtown Dubai,2,1517481,805,Old,Medium
+606,Townhouse,Downtown Dubai,3,4094804,2694,Old,Medium
+607,Townhouse,Downtown Dubai,1,562507,471,Old,Medium
+608,Penthouse,JVC,5,1605710,2453,Old,Medium
+609,Penthouse,Palm Jumeirah,4,2838377,1629,Old,Medium
+610,Penthouse,Marina,5,4887373,1967,Old,Medium
+611,Apartment,Downtown Dubai,2,1306564,4082,Old,Medium
+612,Villa,Palm Jumeirah,5,4418949,3353,Old,Medium
+613,Penthouse,Palm Jumeirah,2,2109473,4882,Old,Medium
+614,Villa,Marina,5,2211952,1098,New,Medium
+615,Villa,JVC,1,1237954,1226,Old,High
+616,Townhouse,Business Bay,1,3408056,748,Old,Medium
+617,Apartment,Business Bay,1,1207173,4308,New,High
+618,Penthouse,Palm Jumeirah,1,1179447,707,Old,Medium
+619,Townhouse,Marina,1,1561404,3816,Old,Medium
+620,Townhouse,Business Bay,1,3480248,2734,New,Medium
+621,Penthouse,Palm Jumeirah,2,3113987,3209,New,Medium
+622,Villa,JVC,4,3253913,3958,New,Medium
+623,Townhouse,Business Bay,5,3035232,4878,Old,Medium
+624,Villa,Palm Jumeirah,1,2878907,3877,New,Medium
+625,Apartment,Palm Jumeirah,2,3329915,3086,Old,Medium
+626,Villa,Downtown Dubai,2,2863162,3385,Old,Medium
+627,Apartment,JVC,2,1415113,675,Old,High
+628,Villa,Downtown Dubai,4,3192794,2947,Old,Medium
+629,Townhouse,Marina,5,2711549,3164,New,Medium
+630,Townhouse,Downtown Dubai,4,2845704,736,Old,Medium
+631,Apartment,Downtown Dubai,3,923332,2373,Old,Medium
+632,Penthouse,Business Bay,2,792575,3379,Old,High
+633,Apartment,Palm Jumeirah,3,1959700,4976,Old,Medium
+634,Apartment,JVC,1,529336,4368,Old,High
+635,Villa,Downtown Dubai,1,3701078,1310,New,Medium
+636,Villa,JVC,4,2142425,2396,Old,Medium
+637,Apartment,Downtown Dubai,5,3107622,3529,Old,Medium
+638,Townhouse,Marina,3,2386963,4604,Old,Medium
+639,Villa,Downtown Dubai,5,3272605,4157,New,Medium
+640,Penthouse,Business Bay,4,1947947,727,New,Medium
+641,Villa,Palm Jumeirah,1,4676426,2199,Old,Medium
+642,Villa,Marina,5,4356756,714,New,Medium
+643,Penthouse,Downtown Dubai,5,1998339,3945,New,Medium
+644,Apartment,JVC,1,1176296,1534,Old,High
+645,Penthouse,Marina,3,879039,3146,Old,Medium
+646,Apartment,Marina,1,1028714,1920,Old,Medium
+647,Apartment,Downtown Dubai,5,3411190,555,Old,Medium
+648,Apartment,Marina,3,1052439,2124,Old,Medium
+649,Penthouse,JVC,3,4642535,3743,New,Medium
+650,Apartment,Marina,1,773452,1286,Old,Medium
+651,Townhouse,JVC,5,1278883,3473,Old,High
+652,Penthouse,Downtown Dubai,4,4871047,3205,Old,Medium
+653,Townhouse,Palm Jumeirah,5,2689921,1121,Old,Medium
+654,Apartment,Marina,2,3698156,1312,New,Medium
+655,Villa,Palm Jumeirah,4,1262371,3757,Old,Medium
+656,Apartment,JVC,3,3757945,1270,Old,Medium
+657,Townhouse,Marina,4,4268950,4508,Old,Medium
+658,Townhouse,Business Bay,3,642980,897,Old,High
+659,Penthouse,Palm Jumeirah,3,2934003,2156,Old,Medium
+660,Villa,Marina,4,757354,1517,Old,Medium
+661,Penthouse,Palm Jumeirah,3,3706943,3809,Old,Medium
+662,Townhouse,Marina,3,2417160,3228,New,Medium
+663,Apartment,Downtown Dubai,2,3815258,2047,Old,Medium
+664,Villa,Palm Jumeirah,5,4871545,3383,Old,Medium
+665,Apartment,Business Bay,5,2735883,542,New,Medium
+666,Apartment,Business Bay,2,3050982,3161,Old,Medium
+667,Villa,JVC,4,1264265,3835,Old,High
+668,Penthouse,Marina,1,808617,2831,Old,Medium
+669,Apartment,Palm Jumeirah,1,3480346,4912,Old,Medium
+670,Townhouse,JVC,1,1244748,2248,New,High
+671,Apartment,Palm Jumeirah,2,4136562,3096,Old,Medium
+672,Villa,Marina,2,2554410,2117,Old,Medium
+673,Villa,Business Bay,3,2977748,3472,Old,Medium
+674,Villa,Downtown Dubai,1,1234275,1467,Old,Medium
+675,Penthouse,Business Bay,4,1797819,3186,Old,Medium
+676,Apartment,JVC,4,1534186,4191,Old,Medium
+677,Penthouse,Downtown Dubai,1,1098506,1688,Old,Medium
+678,Penthouse,JVC,1,1056718,4271,Old,High
+679,Villa,Marina,1,2096853,2206,New,Medium
+680,Villa,Downtown Dubai,2,852414,1904,Old,Medium
+681,Penthouse,JVC,2,3463944,3708,Old,Medium
+682,Apartment,Marina,2,2847693,3351,New,Medium
+683,Townhouse,Business Bay,5,3263545,471,Old,Medium
+684,Penthouse,Marina,4,4016144,2090,Old,Medium
+685,Apartment,Palm Jumeirah,4,4448401,1744,Old,Medium
+686,Villa,Marina,3,624932,3703,Old,Medium
+687,Villa,Marina,2,768083,3513,New,Medium
+688,Apartment,Palm Jumeirah,5,2251498,1282,New,Medium
+689,Townhouse,JVC,5,4377809,4634,New,Medium
+690,Villa,JVC,4,2058426,3062,Old,Medium
+691,Villa,Marina,2,3730431,1904,New,Medium
+692,Villa,Palm Jumeirah,3,3092316,2863,Old,Medium
+693,Apartment,Palm Jumeirah,2,789220,2953,Old,Medium
+694,Penthouse,Business Bay,1,4476765,1132,Old,Medium
+695,Villa,JVC,2,1895285,2148,Old,Medium
+696,Penthouse,Downtown Dubai,1,3422705,4324,Old,Medium
+697,Townhouse,JVC,1,3164749,823,Old,Medium
+698,Villa,JVC,3,4499453,3878,Old,Medium
+699,Villa,Business Bay,4,1906978,1991,Old,Medium
+700,Townhouse,Downtown Dubai,2,3421989,4885,Old,Medium
+701,Villa,Business Bay,1,1484156,4837,New,High
+702,Penthouse,Downtown Dubai,2,4213543,892,Old,Medium
+703,Apartment,Marina,4,1363659,591,Old,Medium
+704,Penthouse,Downtown Dubai,4,2737035,898,Old,Medium
+705,Apartment,Business Bay,5,1703920,1656,Old,Medium
+706,Apartment,JVC,4,3608591,2368,Old,Medium
+707,Penthouse,Downtown Dubai,3,4110954,4722,Old,Medium
+708,Penthouse,Downtown Dubai,1,1247852,2586,Old,Medium
+709,Penthouse,Palm Jumeirah,5,1656618,1216,New,Medium
+710,Penthouse,JVC,3,4411147,3620,New,Medium
+711,Townhouse,Marina,2,1607810,1873,Old,Medium
+712,Villa,Business Bay,1,1312283,1486,Old,High
+713,Apartment,Marina,4,3414863,4599,Old,Medium
+714,Penthouse,JVC,1,2321367,2274,Old,Medium
+715,Penthouse,Downtown Dubai,2,3872863,1270,Old,Medium
+716,Penthouse,Downtown Dubai,5,3399033,2442,Old,Medium
+717,Townhouse,JVC,5,2078315,672,Old,Medium
+718,Penthouse,Downtown Dubai,5,1849590,1429,Old,Medium
+719,Penthouse,Downtown Dubai,4,4004438,3618,Old,Medium
+720,Penthouse,Downtown Dubai,3,3545529,4469,Old,Medium
+721,Villa,Business Bay,3,2725541,1451,Old,Medium
+722,Townhouse,Business Bay,1,3311139,4433,Old,Medium
+723,Penthouse,Palm Jumeirah,4,1969793,1973,Old,Medium
+724,Apartment,Marina,5,4990512,3590,Old,Medium
+725,Apartment,JVC,5,3397706,4788,Old,Medium
+726,Apartment,JVC,2,3701473,4197,New,Medium
+727,Townhouse,JVC,2,1598657,3689,Old,Medium
+728,Townhouse,Palm Jumeirah,5,1426215,4147,New,Medium
+729,Apartment,Business Bay,5,3533449,2505,Old,Medium
+730,Penthouse,Palm Jumeirah,4,1949991,707,Old,Medium
+731,Townhouse,JVC,3,3011910,3759,Old,Medium
+732,Apartment,Marina,2,924528,3576,New,Medium
+733,Apartment,Downtown Dubai,3,3035610,1651,Old,Medium
+734,Penthouse,Business Bay,4,3215223,3147,Old,Medium
+735,Villa,Business Bay,5,1112181,1917,Old,High
+736,Townhouse,Palm Jumeirah,3,4145525,1778,Old,Medium
+737,Penthouse,Business Bay,5,2150824,2361,Old,Medium
+738,Apartment,JVC,5,639227,4705,Old,High
+739,Apartment,JVC,1,2273055,3263,New,Medium
+740,Penthouse,Palm Jumeirah,3,1192137,3056,Old,Medium
+741,Townhouse,JVC,3,781854,2894,Old,High
+742,Villa,Marina,5,1160327,4967,Old,Medium
+743,Villa,Palm Jumeirah,4,2157153,4405,Old,Medium
+744,Apartment,Marina,1,4845398,3963,Old,Medium
+745,Townhouse,Downtown Dubai,5,1985255,1322,New,Medium
+746,Villa,Marina,2,4656004,4632,Old,Medium
+747,Townhouse,Downtown Dubai,2,2306684,4862,Old,Medium
+748,Townhouse,Downtown Dubai,1,2309858,3359,New,Medium
+749,Apartment,Marina,4,979083,583,New,Medium
+750,Villa,Palm Jumeirah,5,1894316,3758,Old,Medium
+751,Penthouse,JVC,3,2401740,1798,New,Medium
+752,Apartment,JVC,1,4762627,3196,New,Medium
+753,Villa,Downtown Dubai,4,2795936,936,Old,Medium
+754,Villa,Downtown Dubai,3,4801400,1673,New,Medium
+755,Villa,Palm Jumeirah,2,3207184,3367,Old,Medium
+756,Villa,Business Bay,2,3412066,3449,Old,Medium
+757,Villa,Marina,3,4270771,1496,Old,Medium
+758,Townhouse,Downtown Dubai,1,2040724,1705,Old,Medium
+759,Apartment,JVC,2,2465730,1315,Old,Medium
+760,Townhouse,Palm Jumeirah,5,4820614,3481,Old,Medium
+761,Penthouse,Marina,3,4583290,4647,Old,Medium
+762,Villa,Palm Jumeirah,3,1175673,1428,Old,Medium
+763,Apartment,Marina,2,4562224,2377,Old,Medium
+764,Villa,Marina,1,2388529,3754,Old,Medium
+765,Apartment,Downtown Dubai,5,1594316,2911,Old,Medium
+766,Townhouse,Palm Jumeirah,1,4800915,670,New,Medium
+767,Apartment,Palm Jumeirah,4,2136675,1586,Old,Medium
+768,Penthouse,JVC,4,1206673,4955,New,High
+769,Penthouse,JVC,2,1301849,4600,Old,High
+770,Apartment,Downtown Dubai,2,2228665,4164,Old,Medium
+771,Apartment,Downtown Dubai,2,1661068,2798,Old,Medium
+772,Apartment,Business Bay,4,1535891,4929,Old,Medium
+773,Apartment,JVC,1,1253494,4635,Old,High
+774,Penthouse,Marina,1,923177,4582,Old,Medium
+775,Villa,Palm Jumeirah,2,1142762,2111,New,Medium
+776,Apartment,Downtown Dubai,5,1267876,2630,Old,Medium
+777,Apartment,Palm Jumeirah,1,4204697,528,Old,Medium
+778,Penthouse,Palm Jumeirah,4,1706184,1669,Old,Medium
+779,Penthouse,Business Bay,3,2260511,4072,Old,Medium
+780,Townhouse,JVC,3,4041815,2001,New,Medium
+781,Apartment,Downtown Dubai,3,546002,4370,Old,Medium
+782,Townhouse,Palm Jumeirah,5,1215339,4644,Old,Medium
+783,Penthouse,Downtown Dubai,2,4639289,1027,Old,Medium
+784,Penthouse,Marina,4,2284006,4197,Old,Medium
+785,Villa,Business Bay,5,1128889,2444,Old,High
+786,Apartment,Marina,4,2867108,3952,Old,Medium
+787,Townhouse,Downtown Dubai,4,4344886,2741,Old,Medium
+788,Penthouse,Downtown Dubai,2,1425779,3614,Old,Medium
+789,Penthouse,JVC,3,3029832,649,Old,Medium
+790,Townhouse,Palm Jumeirah,2,3819151,3325,Old,Medium
+791,Villa,Palm Jumeirah,5,725391,1374,Old,Medium
+792,Penthouse,Marina,5,691387,1725,Old,Medium
+793,Apartment,Business Bay,5,4132632,1383,New,Medium
+794,Penthouse,Palm Jumeirah,2,3284067,1288,Old,Medium
+795,Apartment,JVC,4,1874073,3337,Old,Medium
+796,Townhouse,Marina,4,3035394,2517,Old,Medium
+797,Apartment,Marina,1,4872352,3072,Old,Medium
+798,Townhouse,JVC,5,1924663,1726,Old,Medium
+799,Apartment,Business Bay,4,2969146,870,New,Medium
+800,Townhouse,JVC,1,3791070,2387,Old,Medium
+801,Apartment,Business Bay,4,1186268,490,Old,High
+802,Villa,JVC,5,1301955,929,Old,High
+803,Apartment,JVC,3,1611009,4459,Old,Medium
+804,Apartment,Downtown Dubai,5,2513148,3173,New,Medium
+805,Villa,Marina,2,4967223,2086,Old,Medium
+806,Penthouse,JVC,4,2019593,591,Old,Medium
+807,Penthouse,JVC,4,2944291,2386,Old,Medium
+808,Apartment,Palm Jumeirah,2,647745,4023,Old,Medium
+809,Villa,Marina,2,4292824,2585,Old,Medium
+810,Apartment,Palm Jumeirah,3,2230992,4840,Old,Medium
+811,Townhouse,Marina,4,637686,1408,Old,Medium
+812,Townhouse,Palm Jumeirah,4,2567636,4183,New,Medium
+813,Apartment,JVC,3,4651923,4698,Old,Medium
+814,Penthouse,JVC,1,2483044,4687,New,Medium
+815,Penthouse,Downtown Dubai,3,4424221,2452,Old,Medium
+816,Apartment,Palm Jumeirah,5,3814344,3708,Old,Medium
+817,Apartment,Business Bay,4,549976,2116,Old,High
+818,Townhouse,Downtown Dubai,2,3022620,710,Old,Medium
+819,Penthouse,Palm Jumeirah,5,2863128,4938,Old,Medium
+820,Apartment,Palm Jumeirah,4,3867611,1660,Old,Medium
+821,Townhouse,Downtown Dubai,3,4905813,4332,Old,Medium
+822,Penthouse,JVC,5,4142693,3668,Old,Medium
+823,Villa,Palm Jumeirah,4,2527320,984,Old,Medium
+824,Townhouse,JVC,1,2312105,3199,Old,Medium
+825,Penthouse,Downtown Dubai,1,2447238,759,Old,Medium
+826,Penthouse,JVC,2,1895796,3266,Old,Medium
+827,Townhouse,Marina,4,4061262,2411,Old,Medium
+828,Villa,Business Bay,1,708859,4406,New,High
+829,Townhouse,Palm Jumeirah,3,4527902,2025,New,Medium
+830,Penthouse,Business Bay,4,545475,3164,Old,High
+831,Apartment,JVC,3,3803364,1290,New,Medium
+832,Apartment,Palm Jumeirah,3,3739254,1131,Old,Medium
+833,Townhouse,JVC,1,1599577,4361,Old,Medium
+834,Penthouse,Marina,4,1344081,2904,New,Medium
+835,Apartment,Downtown Dubai,5,4195727,1014,Old,Medium
+836,Penthouse,Palm Jumeirah,1,2102970,4206,New,Medium
+837,Townhouse,Marina,1,2031064,2119,Old,Medium
+838,Apartment,Marina,4,4911887,1987,New,Medium
+839,Penthouse,Palm Jumeirah,4,727189,2011,Old,Medium
+840,Apartment,JVC,3,2576198,1296,Old,Medium
+841,Townhouse,Marina,4,1968919,677,Old,Medium
+842,Penthouse,Business Bay,3,3781941,2036,Old,Medium
+843,Apartment,Marina,1,3150324,2558,Old,Medium
+844,Townhouse,JVC,2,3910580,2832,Old,Medium
+845,Apartment,JVC,5,4185104,4304,Old,Medium
+846,Apartment,Business Bay,1,1920858,3662,Old,Medium
+847,Villa,Marina,4,2248982,1849,Old,Medium
+848,Villa,JVC,5,1945065,4900,Old,Medium
+849,Townhouse,Palm Jumeirah,2,578077,1632,Old,Medium
+850,Villa,Downtown Dubai,2,2141232,4517,Old,Medium
+851,Townhouse,Downtown Dubai,3,4945818,1077,Old,Medium
+852,Villa,Downtown Dubai,5,4595077,3058,Old,Medium
+853,Apartment,Marina,3,1284192,2428,Old,Medium
+854,Townhouse,Business Bay,1,1420114,4158,Old,High
+855,Townhouse,JVC,5,1101891,2437,Old,High
+856,Apartment,Palm Jumeirah,1,4029921,3049,Old,Medium
+857,Townhouse,Palm Jumeirah,3,2682926,1056,New,Medium
+858,Townhouse,Marina,5,2985670,565,Old,Medium
+859,Villa,Downtown Dubai,3,3844250,4991,New,Medium
+860,Townhouse,Marina,5,3866085,989,Old,Medium
+861,Penthouse,Business Bay,3,4523278,4924,New,Medium
+862,Apartment,Business Bay,2,1037977,3221,New,High
+863,Villa,JVC,3,2499014,4658,Old,Medium
+864,Villa,JVC,2,4203292,1662,Old,Medium
+865,Penthouse,Business Bay,3,2058141,471,New,Medium
+866,Apartment,Business Bay,5,4168280,3916,Old,Medium
+867,Apartment,Business Bay,5,3223408,3980,Old,Medium
+868,Villa,Marina,5,2348058,668,Old,Medium
+869,Townhouse,Business Bay,4,2659173,2176,New,Medium
+870,Villa,Palm Jumeirah,1,542291,2862,Old,Medium
+871,Apartment,Downtown Dubai,5,4997968,1668,Old,Medium
+872,Penthouse,Business Bay,2,2622827,1415,New,Medium
+873,Villa,Downtown Dubai,5,2568671,3122,Old,Medium
+874,Apartment,Marina,4,1208672,1483,Old,Medium
+875,Villa,Downtown Dubai,2,837369,4501,Old,Medium
+876,Townhouse,Marina,4,4476974,806,Old,Medium
+877,Villa,Palm Jumeirah,2,3992963,3476,Old,Medium
+878,Villa,Marina,3,2727039,1385,Old,Medium
+879,Apartment,Marina,1,796063,4003,Old,Medium
+880,Apartment,JVC,1,1883875,4885,Old,Medium
+881,Apartment,Business Bay,4,2376336,1109,Old,Medium
+882,Villa,Business Bay,1,4456778,3018,Old,Medium
+883,Townhouse,Palm Jumeirah,4,3387757,1811,New,Medium
+884,Penthouse,Palm Jumeirah,4,2968665,1885,Old,Medium
+885,Penthouse,Business Bay,4,3409984,3350,Old,Medium
+886,Apartment,JVC,1,1192924,3334,Old,High
+887,Apartment,Business Bay,4,3070115,4514,Old,Medium
+888,Villa,JVC,1,2161655,1403,Old,Medium
+889,Penthouse,Palm Jumeirah,4,3600498,2866,New,Medium
+890,Apartment,Downtown Dubai,5,1523920,2866,Old,Medium
+891,Townhouse,Palm Jumeirah,4,4311666,2338,Old,Medium
+892,Townhouse,Palm Jumeirah,2,4319712,2339,Old,Medium
+893,Apartment,Marina,4,1533668,2035,New,Medium
+894,Apartment,Marina,3,2973199,2098,Old,Medium
+895,Penthouse,Marina,4,797675,4927,Old,Medium
+896,Penthouse,Marina,2,1208175,2491,Old,Medium
+897,Villa,JVC,2,4175002,2295,Old,Medium
+898,Penthouse,Business Bay,1,2367306,4640,Old,Medium
+899,Townhouse,Downtown Dubai,5,763625,3798,Old,Medium
+900,Townhouse,Palm Jumeirah,4,1342840,1473,Old,Medium
+901,Apartment,JVC,1,4894643,2802,New,Medium
+902,Penthouse,Downtown Dubai,5,625355,3612,Old,Medium
+903,Villa,JVC,4,4722102,4437,Old,Medium
+904,Townhouse,JVC,3,1115937,1551,Old,High
+905,Townhouse,Palm Jumeirah,4,1875607,2845,Old,Medium
+906,Villa,Business Bay,2,519477,2356,Old,High
+907,Villa,Marina,2,4056210,4958,Old,Medium
+908,Townhouse,Business Bay,3,2987111,4307,Old,Medium
+909,Townhouse,Palm Jumeirah,1,2509606,1207,Old,Medium
+910,Villa,Palm Jumeirah,5,2059757,586,Old,Medium
+911,Townhouse,Palm Jumeirah,4,3932207,4924,Old,Medium
+912,Apartment,Downtown Dubai,2,4967890,1707,Old,Medium
+913,Apartment,Business Bay,1,2381297,2684,Old,Medium
+914,Villa,Business Bay,3,1323759,1157,Old,High
+915,Penthouse,JVC,2,3530855,4631,Old,Medium
+916,Villa,JVC,3,631184,4254,Old,High
+917,Villa,JVC,4,1635627,4666,Old,Medium
+918,Penthouse,Palm Jumeirah,5,2747805,2606,Old,Medium
+919,Penthouse,Business Bay,2,745300,3958,Old,High
+920,Penthouse,Palm Jumeirah,2,1084010,1980,Old,Medium
+921,Apartment,Downtown Dubai,4,592036,1361,Old,Medium
+922,Townhouse,JVC,1,1353392,4247,Old,High
+923,Apartment,Palm Jumeirah,5,781696,3975,Old,Medium
+924,Townhouse,Palm Jumeirah,2,4162340,1275,Old,Medium
+925,Apartment,Downtown Dubai,5,1690456,2818,Old,Medium
+926,Townhouse,Marina,2,4929723,4598,Old,Medium
+927,Apartment,Business Bay,5,1490029,1401,Old,High
+928,Penthouse,Marina,3,654692,3784,Old,Medium
+929,Villa,JVC,2,4957335,4466,Old,Medium
+930,Apartment,Palm Jumeirah,5,2891098,3245,Old,Medium
+931,Townhouse,Downtown Dubai,1,2157888,1881,Old,Medium
+932,Penthouse,Downtown Dubai,3,3085917,3701,Old,Medium
+933,Apartment,Business Bay,3,2324964,1057,Old,Medium
+934,Apartment,Marina,1,1888509,3180,Old,Medium
+935,Penthouse,Business Bay,5,4254542,822,Old,Medium
+936,Apartment,Palm Jumeirah,4,2998214,4081,New,Medium
+937,Villa,Business Bay,1,4608502,4666,Old,Medium
+938,Apartment,Downtown Dubai,5,2068146,3110,Old,Medium
+939,Villa,Downtown Dubai,1,983455,852,Old,Medium
+940,Villa,JVC,1,4536405,2797,Old,Medium
+941,Penthouse,JVC,2,1047219,2375,Old,High
+942,Apartment,Palm Jumeirah,5,2686268,2057,New,Medium
+943,Penthouse,Marina,4,4945975,2941,Old,Medium
+944,Apartment,Business Bay,2,4487793,3475,New,Medium
+945,Apartment,Palm Jumeirah,1,2124777,3564,Old,Medium
+946,Townhouse,JVC,1,3371656,3366,Old,Medium
+947,Apartment,Business Bay,1,4355933,2453,Old,Medium
+948,Penthouse,JVC,5,2826729,687,Old,Medium
+949,Villa,Business Bay,5,4407129,3617,New,Medium
+950,Apartment,Marina,2,595556,4254,Old,Medium
+951,Townhouse,Palm Jumeirah,4,2397883,1847,Old,Medium
+952,Penthouse,Business Bay,2,3969992,1007,Old,Medium
+953,Apartment,Downtown Dubai,3,2055537,4952,Old,Medium
+954,Penthouse,Downtown Dubai,1,1152755,2164,Old,Medium
+955,Townhouse,Business Bay,1,4166344,1625,Old,Medium
+956,Townhouse,Business Bay,1,4026362,1635,Old,Medium
+957,Penthouse,Business Bay,2,1243088,1429,Old,High
+958,Apartment,Downtown Dubai,2,3095834,3071,Old,Medium
+959,Villa,Downtown Dubai,1,559778,4362,Old,Medium
+960,Townhouse,Business Bay,2,1594409,4942,New,Medium
+961,Apartment,JVC,5,3153528,3577,Old,Medium
+962,Apartment,JVC,5,4604399,4122,Old,Medium
+963,Villa,Marina,2,2013083,1875,Old,Medium
+964,Townhouse,Palm Jumeirah,1,3842103,3296,Old,Medium
+965,Townhouse,JVC,2,2673513,1208,Old,Medium
+966,Apartment,Downtown Dubai,2,1898949,1378,Old,Medium
+967,Apartment,JVC,2,1022154,2863,New,High
+968,Villa,Marina,3,3968582,1125,Old,Medium
+969,Villa,Marina,5,1511930,2901,Old,Medium
+970,Townhouse,Palm Jumeirah,4,1579525,3762,Old,Medium
+971,Penthouse,JVC,4,2285818,1616,Old,Medium
+972,Townhouse,Downtown Dubai,3,3451720,4451,Old,Medium
+973,Apartment,Downtown Dubai,2,1660117,2597,Old,Medium
+974,Townhouse,Business Bay,3,2582963,3206,New,Medium
+975,Penthouse,Downtown Dubai,3,4756146,1178,New,Medium
+976,Villa,Palm Jumeirah,1,3085171,1372,Old,Medium
+977,Penthouse,Palm Jumeirah,5,1781506,3210,Old,Medium
+978,Penthouse,Downtown Dubai,4,789134,2523,Old,Medium
+979,Penthouse,Downtown Dubai,2,3268705,998,New,Medium
+980,Villa,Business Bay,4,4824660,3741,Old,Medium
+981,Penthouse,Downtown Dubai,4,3366069,624,Old,Medium
+982,Penthouse,Business Bay,5,1237090,1240,Old,High
+983,Penthouse,Business Bay,4,1414565,2214,Old,High
+984,Apartment,Downtown Dubai,4,4335598,1506,New,Medium
+985,Penthouse,Marina,3,1552425,524,Old,Medium
+986,Villa,Marina,5,1277567,3646,Old,Medium
+987,Penthouse,Business Bay,1,3216207,3331,Old,Medium
+988,Penthouse,Downtown Dubai,2,2249736,4525,Old,Medium
+989,Villa,Marina,4,2070234,3371,Old,Medium
+990,Penthouse,Downtown Dubai,2,551707,2417,New,Medium
+991,Villa,Downtown Dubai,1,780833,2815,Old,Medium
+992,Penthouse,Downtown Dubai,2,4199100,4990,Old,Medium
+993,Villa,JVC,1,1588963,3496,Old,Medium
+994,Penthouse,Downtown Dubai,3,2377145,2009,Old,Medium
+995,Penthouse,JVC,4,2783785,1117,Old,Medium
+996,Apartment,Business Bay,1,4494420,3961,Old,Medium
+997,Apartment,Marina,2,1334874,1416,Old,Medium
+998,Penthouse,Marina,4,1389493,3965,Old,Medium
+999,Penthouse,Marina,3,1278799,4870,Old,Medium
+1000,Townhouse,Marina,4,4033716,2360,Old,Medium
